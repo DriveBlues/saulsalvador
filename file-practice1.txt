@@ -1,2 +1,10 @@
 hola Mundo!
 este archivo fue creado para este curso
+
+si queremos que algunos archivos se ignoren al subir creamos un archivo llamado: .gitignore. Aquí contendrá una lista de archivos que serán ignorados por git status, así que no será necesario agregarlos
+
+git add [nombre ruta del archivo]
+
+git commit -m "comentario de lo que se pasa a commit"
+
+git rm --cached [nombre del archivo]
