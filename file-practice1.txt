@@ -1,5 +1,6 @@
 hola Mundo!
 este archivo fue creado para este curso
+git init / para inicializar todo
 
 si queremos que algunos archivos se ignoren al subir creamos un archivo llamado: .gitignore. Aquí contendrá una lista de archivos que serán ignorados por git status, así que no será necesario agregarlos
 
