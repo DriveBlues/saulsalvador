@@ -1,1 +1,10 @@
 archivo 3 para prácticas
+
+los commit son como las fotografías de nuestro repositorio. 
+cuando se ingresa el git log  para commitiar todo (para salir de aquí se presiona :Q)
+con git log --oneline  para ver cada commit en una línea
+
+hash le decimos al identificador único para ese commit. al colocar git log podemos ver los hash y sus comentarios
+
+
+nuevas modificaciones para el test de RamaNueva2

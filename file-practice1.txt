@@ -12,3 +12,6 @@ git rm --cached [nombre del archivo]
 git status -s  **** es una forma más sencilla de tener el status
 
 xxxx git diff ***muestra qué partes fueron modificadas/pero se buggea - revisar *** se bugea si falta agregar un archiv, por lo que primero debemos revisar si todo está agregado y solo falta detectar qué partes fueron modificadas
+
+
+modificaciones para el branch RamaNueva2 prueba
